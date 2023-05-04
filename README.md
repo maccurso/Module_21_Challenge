@@ -27,7 +27,11 @@ In this project, we were tasked with developing a monetary system for the new Ma
 
 **Crowdsale Deployment Interactions**
 
-![]
+![Meta Mask 1](Evaluation_Evidence/MetaMask_1.jpg)
+
+![Meta Mask 2](Evaluation_Evidence/MetaMask_2.jpg)
+
+![Address Balance and Total Supply](Evaluation_Evidence/address_balance_and_total_supply.jpg)
 
 ---
 
